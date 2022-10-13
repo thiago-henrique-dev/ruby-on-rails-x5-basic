@@ -1,0 +1,5 @@
+source 'https://rubygems.org/'
+
+gem 'cpf_utils' #gera e trabalha com cpfs e afins 
+gem 'lerolero_generator' #preenche pagina com lerolero e afins
+gem 'tty-spinner' #carrega mo bonitinho fzd animaçãozinha
